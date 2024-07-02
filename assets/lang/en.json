@@ -1,0 +1,123 @@
+{
+    "paginator":{
+        "itemsPerPage":"Items Per Page : ",
+        "firstPageLabel":"First Page",
+        "lastPageLabel":"Last Page",
+        "nextPageLabel":"Next Page",
+        "previousPageLabel":"Previous Page",
+        "displaying":"Displaying",
+        "outOf":"Out of"
+    },
+    "commonStepper":{
+        "youAreDone":"You are done!",
+        "nextStep":"Next Step"
+    },
+    "iconTooltip":{
+        "copyMessage":"Copied to Clipboard"
+    },
+    "languages":{
+        "english" : "English",
+        "arabic":"Arabic",
+        "turkish":"Turkish",
+        "russian":"Russian"
+    },
+    "user":{
+        "logout":"Logout"
+    },
+    "confirmationDialog":{
+        "deleteDefaultTitle":"Delete this Record ?",
+        "deleteDefaultMessage":"Are your sure that you want to delete this record, this action cannot be undone",
+        "confirmButtonDefault":"Confirm",
+        "cancelButtonDefaultLabel":"Cancel"
+    },
+    "navigationItems":{
+        "staff":"Staff",
+        "users":"Users",
+        "roles":"Roles",
+        "customers":"Customers",
+        "income":"Income",
+        "invoice":"Invoice",
+        "revenue":"Revenue",
+        "creditNotes":"Credit Notes",
+        "expense":"Expense",
+        "bill":"Bill",
+        "payment":"Payment",
+        "debitNote":"Debit Note"
+
+    },
+    "staffModule":{
+        "rolesConfig":{
+            "createNewRole":"Create New Role",
+            "editRole":"Edit Role",
+            "module":"Module",
+            "name":"Name",
+            "permissions":"Permissions",
+            "dashboard":"Dashboard",
+            "role":"Role",
+            "user":"User",
+            "invoice":"Invoice",
+            "show":"Show",
+            "manage":"Manage",
+            "create":"Create",
+            "edit":"Edit",
+            "delete":"Delete",
+            "send":"Send",
+            "duplicate":"Duplicate",
+            "convertToInvoice":"Convert To Invoice",
+            "convertToRetainer":"Convert To Retainer",
+            "createPayment":"Create Payment",
+            "deletePayment":"Delete Payment"
+        },
+        "userDialog":{
+            "addUser":"Add New User",
+            "editUser":"Edit Existing User",
+            "addUserBtn":"Save User",
+            "editUserBtn":"Update User",
+            "formFields":{
+                "name":"Name",
+                "nameRequired":"Name field is required",
+                "email":"Email",
+                "emailRequired":"Email field is required",
+                "role":"Role",
+                "roleRequired":"Role fiels is required",
+                "enableLogin":"Enable Login",
+                "password":"Password",
+                "passwordRequired":"Password field is required",
+                "dateOfBirth":"Date Of Birth",
+                "dateOfBirthRequired":"Date of birth is required"
+            }
+        },
+        "staffUsersPage":{
+            "addUserToolTip":"Add User",
+            "userLogsTooltip":"User Logs"
+        },
+        "staffRolesPage":{
+            "searchPlaceholder":"Search for a role..."
+        }
+    },
+    "customersModule":{
+        "customersList":{
+            "title":"Manage Customers"
+        }
+    },
+    "incomeModule":{
+        "creditNotes":{
+            "createCreditNote":"Create Credit Note",
+            "updateCreditNote":"Update Credit Note",
+            "invoice":"Invoice",
+            "invoicePlaceholder":"Select Invoice...",
+            "invoiceRequired":"Invoice field is required",
+            "amount":"Amount",
+            "amountPlaceholder":"Add Amount...",
+            "amountRequired":"Amount field is required",
+            "date":"Date",
+            "datePlaceholder":"Select a date...",
+            "dateRequired":"Date field is required",
+            "description":"Description",
+            "descriptionPlaceholder":"Add Description...",
+            "descriptionRequired":"Description Field is required",
+            "create":"Create",
+            "update":"Update"
+        }
+    }
+}

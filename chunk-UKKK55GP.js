@@ -1,0 +1,1 @@
+import"./chunk-DM275RSA.js";var e=[{path:"",loadComponent:()=>import("./chunk-XCPIV6WE.js").then(t=>t.BudgetBuilderMainComponent),children:[{path:"",redirectTo:"create-budget",pathMatch:"full"},{path:"create-budget",loadComponent:()=>import("./chunk-HLJ7VGH7.js").then(t=>t.CreateEditBudgetComponent),title:"Create Budget"}]}];export{e as routes};

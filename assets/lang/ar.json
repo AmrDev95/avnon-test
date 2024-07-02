@@ -1,0 +1,164 @@
+{
+    "paginator": {
+        "itemsPerPage": "عدد العناصر في كل صفحة : ",
+        "firstPageLabel": "الصفحة الأولى",
+        "lastPageLabel": "الصفحة الأخيرة",
+        "nextPageLabel": "الصفحة التالية",
+        "previousPageLabel": "الصفحة السابقة",
+        "displaying": "عرض",
+        "outOf": "من أصل"
+    },
+    "iconTooltip":{
+        "copyMessage":"تم النسخ بنجاح"
+    },
+    "languages": {
+        "english": "الإنجليزية",
+        "arabic": "العربية",
+        "turkish": "التركية",
+        "russian": "الروسية"
+    },
+    "user": {
+        "logout": "تسجيل الخروج"
+    },
+    "productsListing": {
+        "title": "قائمة المنتجات",
+        "addProduct": "إضافة منتج",
+        "howToManageProducts": "كيف يمكنني إدارة قوائم المنتجات؟",
+        "bulkOperations": "العمليات الجماعية",
+        "customizeTable": "تخصيص الجدول"
+    },
+    "productsFilter": {
+        "barCode": "الباركود",
+        "productName": "اسم المنتج",
+        "modelCode": "كود الطراز",
+        "stockCode": "كود المخزون",
+        "brand": "العلامة التجارية",
+        "category": "الفئة",
+        "reasonForSale": "سبب البيع",
+        "filter":"بحث",
+        "cancel":"الغاء"
+    },
+    "productTabs": {
+        "all": "الكل",
+        "onSale": "للبيع",
+        "depleted": "نفذت",
+        "toRevise": "للمراجعة",
+        "unavailable": "غير متوفر",
+        "locked": "مقفل",
+        "archived": "مؤرشف"
+    },
+    "productsListingTable": {
+        "buyBox": "صندوق الشراء",
+        "productName": "اسم المنتج",
+        "barCode": "الباركود",
+        "brand": "العلامة التجارية",
+        "modelCode": "كود الموديل",
+        "color": "اللون",
+        "bodySize": "حجم الجسم",
+        "commission": "العمولة",
+        "marketSellingPrice": "سعر البيع في السوق",
+        "otlubSellingPrice": "سعر البيع اطلب",
+        "stock": "المخزون",
+        "situation": "الحالة",
+        "details": "التفاصيل"
+    },
+    "commonStepper": {
+        "youAreDone": "لقد انتهيت!",
+        "nextStep": "الخطوة التالية"
+    },
+    "productCard":{
+        "productDetails":"تفاصيل المنتج"
+    },
+    "productDetailsDialog": {
+        "productDetails": "تفاصيل المنتج",
+        "sellerStock": "كود مخزون البائع",
+        "amountInStock": "الكمية المتوفرة في المخزون",
+        "amountInStockRequired": "الكمية المتوفرة في المخزون مطلوبة",
+        "marketSellingPrice": "سعر البيع في السوق",
+        "marketSellingPriceRequired": "سعر البيع في السوق مطلوب",
+        "trendyolSellingPrice": "سعر البيع ترينديول",
+        "trendyolSellingPriceRequired": "سعر البيع ترينديول مطلوب",
+        "seeOtlub": "أنظر أيضًا إلى اطلب",
+        "confirmAndOpen": "تأكيد وفتح للبيع"
+    },
+    "singleProduct": {
+        "title": "إنشاء منتج فردي",
+        "previous": "السابق",
+        "next": "التالي",
+        "finish": "إنهاء",
+        "productInfo": {
+            "title": "معلومات المنتج",
+            "productName": "اسم المنتج",
+            "productNameRequired": "اسم المنتج مطلوب",
+            "category": "الفئة",
+            "categoryRequired": "الفئة مطلوبة",
+            "modelCode": "كود الموديل",
+            "modelCodeRequired": "كود الموديل مطلوب",
+            "brand": "العلامة التجارية",
+            "brandRequired": "العلامة التجارية مطلوبة",
+            "description": "الوصف",
+            "descriptionRequired": "الوصف مطلوب"
+        },
+        "variantInfo": {
+            "title": "معلومات البيع والمتغيرات",
+            "ageGroup": "الفئة العمرية",
+            "ageGroupRequired": "الفئة العمرية مطلوبة",
+            "gender": "الجنس",
+            "genderRequired": "الجنس مطلوب",
+            "male": "ذكر",
+            "female": "أنثى",
+            "optional": "(اختياري)",
+            "material": "المادة",
+            "model": "الموديل",
+            "pattern": "النمط",
+            "primerCondition": "حالة التمهيدي",
+            "productType": "نوع المنتج",
+            "fabricYarn": "خيوط النسيج",
+            "technical": "تقني"
+        },
+        "productFeatures":{
+            "title":"ميزات المنتج"
+        }
+    },
+    "addProductFromCatalogue": {
+        "title": "إضافة من كتالوج أوتلوب",
+        "description": "يمكنك البحث في كتالوج ترينديول باستخدام اسم المنتج، الباركود، أو رابط المنتج لإضافة المنتج الذي ترغب ببيعه في متجرك.",
+        "howToButton": "كيفية إضافة منتج من الكتالوج",
+        "warnMessage": "يجب أن تتأكد من أن المنتج الذي ستضيفه يتطابق مع المنتج الذي لديك في المخزون، حيث قد يعتبر عرض منتج مختلف للبيع كـ 'إساءة استخدام تطبيق بويبوكس' وقد يتم إيقاف بيعك. تكامل مناطق محتوى المنتج يتيح لك أن تكون مفضلاً من قبل العملاء ويزيد من رؤية منتجك. لمراجعة",
+        "rulesClick": "القواعد، انقر هنا",
+        "searchPlaceholder": "ابحث عن اسم المنتج، الباركود أو رابط المنتج",
+        "inquiry": "استعلام",
+        "searchResults": "نتيجة البحث",
+        "productsFound": "منتج تم العثور عليه"
+    },
+    "fileSelector": {
+        "selectFile": "اختر ملف",
+        "fileName": "اسم الملف",
+        "fileSize": "حجم الملف",
+        "upload": "رفع",
+        "uploadMessage": "يجب أن يطابق قالب الملف الذي تختار رفعه نوع الرفع."
+    },
+    "bulkOperations": {
+        "title":"العمليات الجماعية",
+        "howToDo": "كيف تفعل ذلك؟",
+        "brandDefinition": {
+            "title": "حدد علاماتك التجارية",
+            "searchBrand": "ابحث عن علامتك التجارية",
+            "searchPlaceholder": "ابحث عن علامتك التجارية...",
+            "brandDefinitionMessage": "تحتاج إلى البحث إذا كانت علامتك التجارية موجودة في النظام. إذا لم تجد العلامة التجارية التي تبحث عنها في النظام، يمكنك تحديد علامتك التجارية.",
+            "define": "تحديد",
+            "id": "الرقم التعريفي",
+            "brand": "العلامة التجارية",
+            "noBrandsFound": "لم يتم العثور على نتائج",
+            "warnMessage": "تحتاج إلى إدخال اسم العلامة التجارية للمنتج الذي تريد رفعه في عمود العلامة التجارية في جدول إدخال المنتج!"
+        },
+        "downloadExcel": {
+            "title": "تنزيل قالب لإعداد Excel"
+        },
+        "uploadExcel": {
+            "title": "قم برفع Excel الذي أعددته إلى النظام",
+            "chooseInstallationType": "اختر نوع التثبيت",
+            "installationPlaceholder": "اختر نوع التثبيت..."
+        }
+    }
+}
